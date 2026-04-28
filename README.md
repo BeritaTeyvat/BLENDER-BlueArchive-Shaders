@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/55c34cf5-9a57-44ff-adb9-f4eeaeced929
-
 # 🎨 Blender Blue Archive Shaders
 
 A custom **toon / cel shader** for Blender, inspired by the visual style of **Blue Archive**.
