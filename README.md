@@ -10,7 +10,7 @@ This project aims to replicate the clean, anime-style cel shading used in the ga
 
 ## 📽️ Preview
 
-https://github.com/BeritaTeyvat/BLENDER-BlueArchive-Shaders/raw/main/Preview/0001-0250.mp4
+[https://github.com/BeritaTeyvat/BLENDER-BlueArchive-Shaders/raw/main/Preview/0001-0250.mp4](https://github.com/BeritaTeyvat/BLENDER-BlueArchive-Shaders/raw/refs/heads/main/Preview/0001-0250.mp4)
 
 > If the video does not autoplay, click the link above to view it directly on GitHub.
 
